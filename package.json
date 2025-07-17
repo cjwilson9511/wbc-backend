@@ -1,0 +1,14 @@
+{
+  "name": "wbc-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.x",
+    "cors": "^2.x",
+    "@supabase/supabase-js": "^2.x"
+  }
+}
